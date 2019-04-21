@@ -4,8 +4,15 @@
 
 A library supports that connecting the other computer unit with embedded controller.
 
-## Supported platform
+## Supported Platform
 
 - STM32FXX
 - ...
-- still working on enhancing it
+- STILL WORKING ON IT~
+
+## Supported Peripheral
+
+- STM32FXX
+  - Motor
+  - ...
+  - STILL WORKING ON IT~
